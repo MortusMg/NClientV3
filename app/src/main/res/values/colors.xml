@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="entry_background">#7f000000</color>
-    <color name="color_overlay">#8f000000</color>
+    <color name="colorPrimary">?attr/colorPrimary</color>
+    <color name="colorPrimaryVariant">?attr/colorPrimaryVariant</color>
+    <color name="colorOnPrimary">?attr/colorOnPrimary</color>
+    <color name="colorSecondary">?attr/colorSecondary</color>
+    <color name="colorSecondaryVariant">?attr/colorSecondaryVariant</color>
+    <color name="colorOnSecondary">?attr/colorOnSecondary</color>
+    <color name="colorError">?attr/colorError</color>
+    <color name="colorOnError">?attr/colorOnError</color>
+    <color name="colorBackground">?attr/colorBackground</color>
+    <color name="colorOnBackground">?attr/colorOnBackground</color>
+    <color name="colorSurface">?attr/colorSurface</color>
+    <color name="colorOnSurface">?attr/colorOnSurface</color>
 </resources>
